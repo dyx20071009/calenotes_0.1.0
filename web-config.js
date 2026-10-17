@@ -4,5 +4,5 @@ window.CALENOTES_WEB_CONFIG = {
   supabaseUrl: "",
   supabaseAnonKey: "",
   guestAiEnabled: true,
-  aiProxyUrl:https:"claneotesai.hszbj.workers.dev"
+  aiProxyUrl: "https://claneotesai.hszbj.workers.dev"
 };
