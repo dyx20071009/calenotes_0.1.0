@@ -1,0 +1,3 @@
+[functions.calenotes-ai]
+# The function explicitly validates the bearer token through Auth's /user endpoint.
+verify_jwt = false
